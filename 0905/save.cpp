@@ -2,7 +2,7 @@
 // save.cpp - 한 학기 강의를 저장하기 위한 기능 모음
 // 2024.09.05
 //----------------------------------------------
-#include "save.h"
+
 #include <fstream>
 #include <chrono>
 #include <iostream>
